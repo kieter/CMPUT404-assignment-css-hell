@@ -23,6 +23,15 @@ Code is licensed under the Apache 2.0 license.
 
 Kieter's Submission is made in collaboration with:
 
+Changes Kieter made to the Gutenberg CSS include:
+* Changing the font family 
+* Changing the font sizes to a more legible size
+* Changed the background to a nice soft yellow
+* Centered a lot of the content
+* Links have a sweet soft animation when you hover over them
+* Image captions are italicized and in a smaller font
+* Smooth drop shadow on images
+
 Kieter referenced:
 https://www.uvm.edu/~bnelson/computer/css/changethespacingbetweenlines.html
 https://stackoverflow.com/questions/48671035/css-unhover-property
@@ -40,7 +49,8 @@ http://www.photo-kako.com/en/low-image-quality.cgi
 Kieter collaborated with:
 * Michael Paradis (paradis2)
 * Owen McLeod (omcleod)
-* Gary (gurmeet) Dhillon (gd1)
+* Gary (aka. Gurmeet) Dhillon (gd1)
+* Cole Mackenzie (cdmacken)
 
 
 
