@@ -28,14 +28,20 @@ I changed these Gutenberg books because I read them in high school:
 * http://www.gutenberg.org/files/58915/58915-h/58915-h.htm
 * http://www.gutenberg.org/files/1400/1400-h/1400-h.htm
 
-Changes Kieter made to the Gutenberg CSS include:
+Changes Kieter made to the Gutenberg CSS/HTML include:
+* Linked a new font and the new CSS
 * Changing the font family 
 * Changing the font sizes to a more legible size
+* Increased line spacing to make the page easier to read
 * Changed the background to a nice soft yellow
 * Centered a lot of the content
 * Links have a sweet soft animation when you hover over them
 * Image captions are italicized and in a smaller font
 * Smooth drop shadow on images
+
+Changes Kieter made between good.html and bad.html to his website HTML:
+* The attribution for the backgorund image is different between the good and bad files
+* Added creative commons link in the footer
 
 Kieter referenced:
 https://www.uvm.edu/~bnelson/computer/css/changethespacingbetweenlines.html
