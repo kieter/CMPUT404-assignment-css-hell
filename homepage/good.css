@@ -1,0 +1,109 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    line-height: 5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    word-wrap: break-word;
+}
+
+ul {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    /* height: 0.7rem; */
+    width: 10rem;
+    border: 0.1rem solid white;
+    background-color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+/* Based off of https://stackoverflow.com/questions/49550792/split-in-half-vertically-and-horizontally-second-flex-item */
+.left-half {
+    background-image: url(kieter.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+}
+
+/* Based off of https://stackoverflow.com/questions/49550792/split-in-half-vertically-and-horizontally-second-flex-item */
+.right-half {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    background-image: url(Randomized-Pattern.svg);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text {
+    background: #7BC96F;
+    box-shadow: 0.5rem 0.5rem #E5E5E5;
+    padding: 1rem;
+    margin: 3rem;
+    /* float: left; */
+}
+
+.title {
+    font-size: 2rem;
+}
+
+.salutation {
+    font-size: 5rem;
+    color: white;
+}
+
+.about-me {
+    font-size: 4.5rem;
+}
+
+.details {
+    font-size: 3rem;
+}
+
+.details-list {
+    font-size: 1.5rem; 
+}
+
+.good-at {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.technologies {
+    font-size: 1.5rem;
+    font-weight: 0rem;
+}
+
+.background-attribution {
+    display: flex;
+    align-items: right;
+    justify-content: flex-end;
+}
