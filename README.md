@@ -23,6 +23,11 @@ Code is licensed under the Apache 2.0 license.
 
 Kieter's Submission is made in collaboration with:
 
+I changed these Gutenberg books because I read them in high school:
+* http://www.gutenberg.org/files/1342/1342-h/1342-h.htm
+* http://www.gutenberg.org/files/58915/58915-h/58915-h.htm
+* http://www.gutenberg.org/files/1400/1400-h/1400-h.htm
+
 Changes Kieter made to the Gutenberg CSS include:
 * Changing the font family 
 * Changing the font sizes to a more legible size
