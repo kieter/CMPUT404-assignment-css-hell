@@ -33,6 +33,9 @@ https://www.svgbackgrounds.com/#randomized-pattern
 https://www.quora.com/What-is-the-default-font-size-for-h2
 https://www.colorhexa.com/778899
 https://stackoverflow.com/questions/49550792/split-in-half-vertically-and-horizontally-second-flex-item
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+https://unsplash.com/photos/4dpAqfTbvKA
+http://www.photo-kako.com/en/low-image-quality.cgi
 
 Kieter collaborated with:
 * Michael Paradis (paradis2)
